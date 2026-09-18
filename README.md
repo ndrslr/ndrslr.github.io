@@ -16,6 +16,18 @@ once you're done.
 Add your actual CV as `cv.pdf` in this same folder — the "Download CV"
 button already points to `cv.pdf`.
 
+**Photo & logos (optional):** the page already has spots wired up for:
+- `photo.jpg` — your portrait, shown in a circle in the header. Until you
+  add one, it falls back to showing your initials, so nothing looks broken.
+- `upenn-logo.png` — small icon next to your PhD entry in the timeline.
+- `vt-logo.png` — small icon next to your two Virginia Tech degrees.
+
+Just drop image files with those exact names into the same folder as
+`index.html` (square images work best for the logos, e.g. 40x40px) and
+they'll appear automatically — no code changes needed. If a file is
+missing, that spot just quietly disappears rather than showing a broken
+image icon.
+
 ## 2. Get it online with GitHub Pages (free)
 
 **Option A — personal site at `yourusername.github.io`:**
